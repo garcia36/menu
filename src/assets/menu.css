@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    background-color: #181818;
+}
+
+.contenedor-menu{
+    padding: 2rem;
+    width: 25rem;
+    height: 35rem;
+    align-self: center;
+}
+
+.contenedor-menu-img{
+    width: 350px;
+    height: 300px;
+    align-content: center !important;
+}
+
+.imagen-platillo{
+    width: 100%;
+}
+.nombre-platillo{
+    text-align: center;
+}
+.contenedor-text-platillo{
+    color: aliceblue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.descripcion-platillo{
+    color: aliceblue;
+    text-align: center;
+}
+
+.precio-platillo{
+    background-color: rgb(196, 141, 22);
+    width: 10rem;
+    height: 3rem;
+    margin-top: 1rem;
+    margin-left:5rem;
+    padding: 15px;
+    font-size: 25px;
+    font-family: fantasy;
+    border-radius: 2px;
+    text-align: center;
+}
+
+
